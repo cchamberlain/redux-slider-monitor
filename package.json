@@ -1,5 +1,5 @@
 {
-  "name": "redux-slider-monitor",
+  "name": "redux-slider-monitor-15",
   "version": "1.0.4",
   "description": "A custom monitor for replaying Redux actions that works similarly to a video player",
   "main": "lib/SliderMonitor.js",
@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0",
+    "react-dom": "^0.14.0 || ^15.0.0",
     "redux-devtools": "^3.0.0"
   },
   "dependencies": {
